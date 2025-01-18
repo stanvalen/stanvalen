@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stanvalen
-check my strawpage! !!!C+H ARE INCOURAGED AND WARMLY WELCOMED!!!
+check my strawpage! 
 
 <!---
 stanvalen/stanvalen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
